@@ -12,7 +12,7 @@ import java.util.List;
  * @author rgarciacarmona
  */
 public class Node {
-	private double x, y;
+	private double x, y; // posicion del nodo
 	private List<Node> children;
 
 	/**
